@@ -73,7 +73,7 @@ Cool stuff I learnt about/ Experimented with:
 + Data Cleaning
 + More of Pandas & SciKit Learn
 + Hyperparameter Tuning
-+ Random Forect Classification
++ Random Forest Classification
 + 
 
 ---
