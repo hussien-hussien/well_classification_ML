@@ -67,7 +67,7 @@ I've split this project into 3 different notebooks with different purposes desig
 Cool stuff I learnt about/ Experimented with:
 + Cross-Validation
 + Linear Discriminant Analysis
-+ How to deal with high dimensional
++ How to deal with high dimensionality
 + Feature Selection
 + Feature Engineering
 + Data Cleaning
